@@ -1,3 +1,3 @@
 reset
-reset2
+reset soft
 reset mixed
